@@ -169,7 +169,7 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Administrador/Downloads/jersey-archive-1.4/jersey-archive-1.4/lib/jersey-server-1.4.jar">
+	<classpathentry kind="lib" path="C:/Users/Administrador/Downloads/jersey-archive-1.4/jersey-archive-1.4/lib/jersey-server-1.4.jar" sourcepath="C:/Users/Administrador/.m2/repository/com/sun/jersey/jersey-server/1.4/jersey-server-1.4-sources.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
@@ -189,6 +189,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/RequestAttentionIngWeb"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/RequestAttentionIngWeb"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
