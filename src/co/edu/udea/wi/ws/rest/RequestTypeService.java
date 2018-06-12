@@ -18,7 +18,7 @@ import org.springframework.stereotype.Component;
 import co.edu.udea.wi.bl.RequestTypeBl;
 import co.edu.udea.wi.ws.dto.RequestType;
 
-@Path("TipoSolicitud")
+@Path("RequestType")
 @Component
 public class RequestTypeService {
 

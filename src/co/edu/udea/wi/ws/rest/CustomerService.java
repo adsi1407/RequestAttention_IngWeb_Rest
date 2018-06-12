@@ -17,9 +17,8 @@ import org.springframework.stereotype.Component;
 
 import co.edu.udea.wi.bl.CustomerBl;
 import co.edu.udea.wi.ws.dto.Customer;
-import co.edu.udea.wi.ws.dto.RequestState;
 
-@Path("Cliente")
+@Path("Customer")
 @Component
 public class CustomerService {
 

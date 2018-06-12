@@ -18,7 +18,7 @@ import org.springframework.stereotype.Component;
 import co.edu.udea.wi.bl.RequestStateBl;
 import co.edu.udea.wi.ws.dto.RequestState;
 
-@Path("EstadoSolicitud")
+@Path("RequestState")
 @Component
 public class RequestStateService {
 
