@@ -2,10 +2,13 @@ package co.edu.udea.wi.ws.dto;
 
 import java.util.Date;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
 import co.edu.udea.wi.dto.Customer;
 import co.edu.udea.wi.dto.RequestState;
 import co.edu.udea.wi.dto.RequestType;
 
+@XmlRootElement
 public class Request {
 
 	private int ID;

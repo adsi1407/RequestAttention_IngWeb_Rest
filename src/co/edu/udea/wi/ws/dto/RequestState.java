@@ -1,5 +1,8 @@
 package co.edu.udea.wi.ws.dto;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement
 public class RequestState {
 
 	private int ID;

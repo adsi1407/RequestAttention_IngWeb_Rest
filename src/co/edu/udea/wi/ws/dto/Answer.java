@@ -2,9 +2,12 @@ package co.edu.udea.wi.ws.dto;
 
 import java.util.Date;
 
+import javax.xml.bind.annotation.XmlRootElement;
+
 import co.edu.udea.wi.dto.Attendant;
 import co.edu.udea.wi.dto.Request;
 
+@XmlRootElement
 public class Answer {
 
 	private int ID;
